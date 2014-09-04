@@ -1,0 +1,16 @@
+{
+  "name": "hoverThrottle",
+  "version": "0.0.1",
+  "description": "Keeps your heavy hover states from janking up scroll.",
+  "main": "index.js",
+  "keywords": [
+    "dom",
+    "scroll"
+  ],
+  "author": "Jon-Kyle Mohr",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "extend": "~1.3.0",
+    "raf": "~2.0.3"
+  }
+}
