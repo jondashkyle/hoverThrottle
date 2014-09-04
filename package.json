@@ -1,6 +1,6 @@
 {
-  "name": "hoverThrottle",
-  "version": "0.0.1",
+  "name": "hoverthrottle",
+  "version": "0.1.0",
   "description": "Keeps your heavy hover states from janking up scroll.",
   "main": "index.js",
   "keywords": [
